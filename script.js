@@ -16,6 +16,7 @@ window.onload = function() //fonctionne comme ready()
 				<li><a href="index.html">Accueil</a></li>
 				<li>Articles</li>
 			 </ul>`;
+		break;
 
 	}
 
